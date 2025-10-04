@@ -1,0 +1,26 @@
+
+certs*/
+*/certs*/
+
+# Python cache and virtual environment
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+*.sqlite3
+
+# Virtual environment
+.venv/
+env/
+venv/
+
+# macOS files
+.DS_Store
+
+# Logs
+*.log
+
+# IDE-specific (PyCharm)
+.idea/
+*.iml
